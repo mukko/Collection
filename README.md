@@ -1,11 +1,11 @@
 Collection
 ==========
+## 簡単な説明
+haxeで配列操作のコレクションを作ってみた
+
 ## 使い方
 1. Collection.hxをひっぱってくる
-2. `using Colection;`と宣言しておく(lambdaのように)
-3. `array.~`で使ってもよし、`Collection.~(array)`で使ってもよし
-
-haxeで配列操作のコレクションを少し作ってみました
+2. `using Collection;`と宣言
 
 ## distinct
 重複した要素をなくした配列を返す  
